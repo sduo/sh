@@ -1,3 +1,6 @@
+# msjdk.sh
+* ```-v``` | ```--version```：指定需要安装的版本，详见：[在 Ubuntu 上安装](https://learn.microsoft.com/java/openjdk/install#install-on-ubuntu)
+
 # golang.sh
 * ```--gz```：golang 的 gz 压缩包
 * ```--dl```：golang 的下载网页，默认：```https://go.dev/dl/```，可选：```https://golang.google.cn/dl/```
